@@ -42,7 +42,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 ## 📌 Projetos
 
-### 🍣 website-kakushin
+### 🍣 kakushin-website
 
 Site institucional desenvolvido para um restaurante japonês da região.
 
