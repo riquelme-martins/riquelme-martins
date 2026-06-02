@@ -42,7 +42,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 ## 📌 Projetos
 
-### 🍣 Site Restaurante Cakuxin
+### 🍣 Site Restaurante kakushin
 
 Site institucional desenvolvido para um restaurante japonês da região.
 
@@ -65,7 +65,7 @@ Site institucional desenvolvido para um restaurante japonês da região.
 
 - Sistema de Cardápio Digital
 - Integração Front-End com API
-- Exercícios e desafios de programação
+
 
 ---
 
