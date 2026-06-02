@@ -38,8 +38,8 @@ Desenvolvedor em formação focado em Backend com Java 🚀
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
-- 📧 Email: SEU-EMAIL-AQUI
+- 💼 LinkedIn: https://www.linkedin.com/in/riquelme-martins-862423254/?skipRedirect=true
+- 📧 Email: riquelme1.contato@gmail.com
 
 ---
 
