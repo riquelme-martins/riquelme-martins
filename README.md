@@ -82,8 +82,10 @@ Site institucional desenvolvido para um restaurante japonês da região.
 
 ## 📊 Estatísticas GitHub
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=riquelme-martins&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riquelme-martins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riquelme-martins&layout=compact&theme=tokyonight"/>
 </div>
+
 ---
 
 ## 🎯 Objetivo
