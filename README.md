@@ -63,10 +63,7 @@ Site institucional desenvolvido para um restaurante japonês da região.
 
 ### 📚 Projetos Acadêmicos
 
-- Sistema de Cardápio Digital
 - Integração Front-End com API
-
-
 ---
 
 ## 📖 Atualmente estudando
