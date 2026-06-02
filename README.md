@@ -83,7 +83,7 @@ Site institucional desenvolvido para um restaurante japonês da região.
 ## 📊 Estatísticas GitHub
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/riquelme-martins?style=for-the-badge&theme=tokyonight)
+![GitHub followers](https://img.shields.io/github/followers/riquelme-martins?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/riquelme-martins?style=for-the-badge)
 
 </div>
