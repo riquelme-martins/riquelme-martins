@@ -82,11 +82,11 @@ Site institucional desenvolvido para um restaurante japonês da região.
 
 ## 📊 Estatísticas GitHub
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riquelme-martins&theme=tokyonight&hide_border=true&locale=pt_BR"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=riquelme-martins&color=blue&style=flat"/>
-</div>
 
+![GitHub followers](https://img.shields.io/github/followers/riquelme-martins?style=for-the-badge&theme=tokyonight)
+![GitHub stars](https://img.shields.io/github/stars/riquelme-martins?style=for-the-badge)
+
+</div>
 ---
 
 ## 🎯 Objetivo
