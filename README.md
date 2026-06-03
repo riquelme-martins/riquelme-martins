@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Riquelme Martins 👋</h1>
 
 <p align="center">
-Desenvolvedor Back-End Java em formação
+Desenvolvedor Back-End Java 
 </p>
 
 <p align="center">
